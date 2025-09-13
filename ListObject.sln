@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembers", "StaticMemb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingMethod", "OverloadingMethod\OverloadingMethod.csproj", "{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{A1F489B9-431A-4467-8D6F-61AFA967E499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,5 +58,9 @@ Global
 		{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F489B9-431A-4467-8D6F-61AFA967E499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F489B9-431A-4467-8D6F-61AFA967E499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F489B9-431A-4467-8D6F-61AFA967E499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F489B9-431A-4467-8D6F-61AFA967E499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
