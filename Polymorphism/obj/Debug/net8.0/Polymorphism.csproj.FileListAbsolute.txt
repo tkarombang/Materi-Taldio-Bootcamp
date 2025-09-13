@@ -1,0 +1,14 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll

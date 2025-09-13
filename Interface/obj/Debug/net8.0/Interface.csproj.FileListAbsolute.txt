@@ -1,0 +1,14 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\bin\Debug\net8.0\Interface.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\bin\Debug\net8.0\Interface.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\bin\Debug\net8.0\Interface.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\bin\Debug\net8.0\Interface.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\Interface.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\refint\Interface.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\Interface.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\Interface\obj\Debug\net8.0\ref\Interface.dll

@@ -1,0 +1,14 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll

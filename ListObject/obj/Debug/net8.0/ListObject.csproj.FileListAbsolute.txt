@@ -1,0 +1,14 @@
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\bin\Debug\net8.0\ListObject.exe
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\bin\Debug\net8.0\ListObject.deps.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\bin\Debug\net8.0\ListObject.runtimeconfig.json
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\bin\Debug\net8.0\ListObject.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\bin\Debug\net8.0\ListObject.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ListObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ListObject.AssemblyInfoInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ListObject.AssemblyInfo.cs
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ListObject.csproj.CoreCompileInputs.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ListObject.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\refint\ListObject.dll
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ListObject.pdb
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ListObject.genruntimeconfig.cache
+F:\PT-SIGMA-CIPTA-UTAMA\IT_Bootcamp_Developer\Materi & Schedule\Day5-ListOfObject_OOP\ListObject\obj\Debug\net8.0\ref\ListObject.dll

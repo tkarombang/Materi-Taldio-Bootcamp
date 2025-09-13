@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListObject", "ListObject\ListObject.csproj", "{A8990BB8-7365-4E82-B7DF-5928F3B9AFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{3003818F-5E24-4656-ABB4-F36EC254516D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{E7DFDB05-592D-4032-A283-319F6D9D00E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{D7F29A68-FBDB-44C4-B80E-A252C6753ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembers", "StaticMembers\StaticMembers.csproj", "{B2FB0AB1-B0EC-45AB-BDE6-78693932BB07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingMethod", "OverloadingMethod\OverloadingMethod.csproj", "{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8990BB8-7365-4E82-B7DF-5928F3B9AFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8990BB8-7365-4E82-B7DF-5928F3B9AFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8990BB8-7365-4E82-B7DF-5928F3B9AFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8990BB8-7365-4E82-B7DF-5928F3B9AFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4272A391-AEA0-4BA8-8D0C-6E1B5CD2230A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4272A391-AEA0-4BA8-8D0C-6E1B5CD2230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4272A391-AEA0-4BA8-8D0C-6E1B5CD2230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4272A391-AEA0-4BA8-8D0C-6E1B5CD2230A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3003818F-5E24-4656-ABB4-F36EC254516D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3003818F-5E24-4656-ABB4-F36EC254516D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3003818F-5E24-4656-ABB4-F36EC254516D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3003818F-5E24-4656-ABB4-F36EC254516D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DFDB05-592D-4032-A283-319F6D9D00E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DFDB05-592D-4032-A283-319F6D9D00E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DFDB05-592D-4032-A283-319F6D9D00E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DFDB05-592D-4032-A283-319F6D9D00E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F29A68-FBDB-44C4-B80E-A252C6753ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F29A68-FBDB-44C4-B80E-A252C6753ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F29A68-FBDB-44C4-B80E-A252C6753ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F29A68-FBDB-44C4-B80E-A252C6753ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6440B4F-994C-4608-894C-E4361823CE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6440B4F-994C-4608-894C-E4361823CE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6440B4F-994C-4608-894C-E4361823CE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6440B4F-994C-4608-894C-E4361823CE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2FB0AB1-B0EC-45AB-BDE6-78693932BB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FB0AB1-B0EC-45AB-BDE6-78693932BB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FB0AB1-B0EC-45AB-BDE6-78693932BB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FB0AB1-B0EC-45AB-BDE6-78693932BB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEDFC47-6BBD-47AB-923C-4098BCDFB2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
